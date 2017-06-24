@@ -1,6 +1,6 @@
 {
   "name": "@vicino/express-paginate",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Node.js pagination middleware.",
   "main": "lib/index.js",
   "repository": {
